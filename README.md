@@ -16,7 +16,7 @@ Steps
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/YourUsername/Laptop-Rental-CRM.git
+git clone https://github.com/abhijeet1426/CRM-Application-for-Laptop-Rentals/
 Set Up Salesforce:
 Import the repository into your Salesforce Developer account.
 Configure the necessary objects, fields, and automation as detailed in the documentation.
