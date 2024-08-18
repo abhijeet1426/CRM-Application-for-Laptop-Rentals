@@ -45,5 +45,5 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
-For questions or support, please reach out to [Your Email] or open an issue on GitHub.
+For questions or support, please reach out to pariharabhijeetsingh3@gmail.com or open an issue on GitHub.
 
